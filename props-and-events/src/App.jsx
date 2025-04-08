@@ -4,6 +4,7 @@ import RestaurantsContainer from "./components/RestaurantsContainer.jsx";
 function App() {
   return (
     <div className="App">
+      {/* Calling restaurant container */}
       <RestaurantsContainer/>
     </div>
   );
